@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="t d">
+<title id="t">VLDT Extreme Drylining BV</title><desc id="d">Industrial VLDT logo with metal stud and plasterboard motif.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3c66d"/><stop offset=".35" stop-color="#a87324"/><stop offset=".62" stop-color="#f6d687"/><stop offset="1" stop-color="#7b4d13"/></linearGradient>
+  <linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b3f43"/><stop offset=".48" stop-color="#111315"/><stop offset="1" stop-color="#2c3033"/></linearGradient>
+  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#767d82"/><stop offset=".22" stop-color="#e1e4e5"/><stop offset=".5" stop-color="#575d61"/><stop offset=".78" stop-color="#d9dcdd"/><stop offset="1" stop-color="#3b4044"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="12" flood-color="#000" flood-opacity=".55"/></filter>
+</defs>
+<g filter="url(#shadow)">
+  <path d="M46 368 L170 632 L316 368 L255 368 L172 532 L105 368 Z" fill="url(#dark)" stroke="url(#gold)" stroke-width="13" />
+  <path d="M319 364 L410 364 L410 174 L456 174 L456 364 L690 364 L690 630 L319 630 Z" fill="url(#dark)" stroke="#8d9295" stroke-width="8"/>
+  <rect x="420" y="123" width="39" height="504" rx="3" fill="url(#steel)" stroke="#181a1c" stroke-width="5"/>
+  <g fill="#111"><ellipse cx="439" cy="235" rx="9" ry="16"/><ellipse cx="439" cy="305" rx="9" ry="16"/><ellipse cx="439" cy="375" rx="9" ry="16"/><ellipse cx="439" cy="445" rx="9" ry="16"/><ellipse cx="439" cy="515" rx="9" ry="16"/></g>
+  <rect x="468" y="110" width="23" height="517" fill="url(#gold)"/>
+  <path d="M492 110 L650 220 L650 365 L492 365 Z" fill="#d8d7d2" stroke="#8d9295" stroke-width="5"/>
+  <line x1="575" y1="168" x2="575" y2="365" stroke="url(#gold)" stroke-width="12"/>
+  <g fill="#2a2c2f"><circle cx="528" cy="187" r="6"/><circle cx="528" cy="260" r="6"/><circle cx="528" cy="330" r="6"/><circle cx="614" cy="244" r="6"/></g>
+  <!-- subtle cross -->
+  <g opacity=".22" stroke="#7d5a24" stroke-width="3"><line x1="479.5" y1="220" x2="479.5" y2="242"/><line x1="473" y1="228" x2="486" y2="228"/></g>
+  <path d="M505 364 H745 Q855 364 855 497 Q855 630 745 630 H505 V364 Z M607 453 V542 H738 Q770 542 770 497 Q770 453 738 453 Z" fill="url(#dark)" stroke="url(#gold)" stroke-width="12" fill-rule="evenodd"/>
+  <path d="M833 368 H1148 L1116 430 H1034 V630 H947 V430 H864 Z" fill="url(#dark)" stroke="url(#gold)" stroke-width="11"/>
+  <rect x="42" y="652" width="1111" height="9" rx="4.5" fill="url(#gold)"/>
+  <rect x="42" y="724" width="1111" height="8" rx="4" fill="url(#gold)"/>
+  <text x="51" y="713" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" letter-spacing="2" fill="#16181a" stroke="#5f6468" stroke-width="2">EXTREME</text>
+  <text x="545" y="713" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" letter-spacing="1" fill="url(#gold)">DRYLINING</text>
+  <text x="1042" y="713" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" fill="#16181a" stroke="#5f6468" stroke-width="2">BV</text>
+</g>
+</svg>
